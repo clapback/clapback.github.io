@@ -1,1 +1,1 @@
-Augmented Reality based virtual trial handloom fashion recommendation app.
+This is a Augmented tial and fitting room app for your personal fashion.
